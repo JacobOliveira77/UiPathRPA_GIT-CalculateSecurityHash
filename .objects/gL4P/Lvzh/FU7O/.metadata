@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Browser - SHA1 Online",
+  "Type": "Screen",
+  "Id": "FU7OKrOiW0O4p7DXv_FKIg",
+  "Reference": "MOQBzBBGAEiEZcYwvtFOJA/FU7OKrOiW0O4p7DXv_FKIg",
+  "ParentRef": "MOQBzBBGAEiEZcYwvtFOJA/Lvzha5KZ5UivuGXXTn8aYA",
+  "Created": "2026-03-25T13:40:36.8395708Z",
+  "Updated": "2026-03-25T13:40:36.8395708Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.1.0.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

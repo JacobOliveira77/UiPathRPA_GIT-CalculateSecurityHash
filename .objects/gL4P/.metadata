@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Browser - SHA1 Online",
+  "Type": "App",
+  "Id": "gL4Pn1atcUaVaenFMDLqNw",
+  "Reference": "MOQBzBBGAEiEZcYwvtFOJA/gL4Pn1atcUaVaenFMDLqNw",
+  "Created": "2026-03-25T13:40:36.7632477Z",
+  "Updated": "2026-03-25T13:40:36.7632477Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.1.0.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
